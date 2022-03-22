@@ -1,4 +1,4 @@
-﻿'comment
+﻿'comment test
 Dim a
 Dim b
 
